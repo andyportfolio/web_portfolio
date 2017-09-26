@@ -1,0 +1,33 @@
+/* sub2_1의 내용 콘텐츠 */
+#main{padding:15px 10px 20px;}
+#main h2{font-family:Arial, Helvetica, sans-serif;
+       font-size:1.6em; margin-bottom:10px;}
+#main .pro_list {margin:15px 0; overflow:auto;}
+#main .pro_list li {display:inline; margin:0 0 10px 15px;
+  width:55px;float:left; }
+#main .pro_list li span {display:block;text-align:center;font-size:11px; }
+
+#form2{width:100%;float:left}
+#form2 .thBar{color:#cf0808}
+
+#form2 table{width:100%;font-size:.95em;line-height:1.5em; border-collapse:collapse;
+      color:#333;border-top:2px solid #cf0808; margin-bottom:30px}
+#form2 caption{text-indent:-9999px}
+#form2 th, td{padding:10px 1%}
+#form2 th{width:20%;color:#666;text-align:left;border-bottom:1px dotted #fff}
+#form2 td{width:62%;border-bottom:1px dotted #693;background:#FFF}
+#form2 .width{display:inline-block;width:;}
+#form2 .text li{color:#693;margin:5px 0;letter-spacing:-1px}
+#form2 .text .txt_indent{display:inline-block;text-indent:14px}
+#form2 .height{height:100px;width:;}
+#form2 input#user_name{ border:0;background:#CCC; color:#FFF; font-weight:bold;}
+.inputbox01 {font-size:9pt; color:#555555; border:1px solid #ccc; 
+          background-color:#fff;  padding:1%; line-height:18px;}
+#title,#details{width:90%}
+.ps{margin-top:10px;color:#999;width:95%}
+
+.num01{text-align:right} /*number right align*/
+
+.btn{width:100%}
+.btn1{background:url(../images/btn_send.png); width:101px; height:23px; text-indent:-999px;overflow:hidden; border:0;margin:0 2% 0 20%}
+.btn2{background:url(../images/btn_cancle.png); width:101px; height:21px; text-indent:-999px;overflow:hidden; border:0; }
